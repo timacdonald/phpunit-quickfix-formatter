@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "VimQuickfix\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

@@ -1,0 +1,9 @@
+AnotherTest::test_it_works_again:/Users/tim/Code/phpunit-quickfix-formatter.vim/tests/AnotherTest.php:16:e:1:Failed asserting that an array contains Array &0 (
+    'a' => 'b'
+).
+AnotherTest::test_it_works:/Users/tim/Code/phpunit-quickfix-formatter.vim/tests/AnotherTest.php:11:w:2:ANOTHER TEST HERE
+Failed asserting that false is true.
+ExampleTest::test_it_works:/Users/tim/Code/phpunit-quickfix-formatter.vim/tests/ExampleTest.php:11:i:3:Hey Tim, this test failed
+Failed asserting that false is true.
+ExampleTest::test_it_works_again:/Users/tim/Code/phpunit-quickfix-formatter.vim/tests/ExampleTest.php:16:n:4:Can you not write any good code? Shesh Tim.
+Failed asserting that false is true.
